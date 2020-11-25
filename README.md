@@ -20,24 +20,24 @@ npm install
 npm start
 ```
 ## Features
--True Tone Dark Mode,
--State - Wise Data Added,
--District - Wise Data Added,
--Live GEO India Map Added,
--Lines Graphs for Complete data added,
--Bars Graphs for seprate data added,
--Material UI 3.0 Updated,
--Optimized Codes for Better Loading,
--Improve Network Servers,
--Symptoms Tracker Added,
--Guildlines tab added,
--Important Contact data added,
--In Website Notification Service Added,
--Optimized UI for Cleaner Looks,
--Netlify Hosting Added,
--No-Permission Required,
--Cache System Enabled for Faster loadeing,
--Full Responsive UX / UI enabled.
+- True Tone Dark Mode,
+- State - Wise Data Added,
+- District - Wise Data Added,
+- Live GEO India Map Added,
+- Lines Graphs for Complete data added,
+- Bars Graphs for seprate data added,
+- Material UI 3.0 Updated,
+- Optimized Codes for Better Loading,
+- Improve Network Servers,
+- Symptoms Tracker Added,
+- Guildlines tab added,
+- Important Contact data added,
+- In Website Notification Service Added,
+- Optimized UI for Cleaner Looks,
+- Netlify Hosting Added,
+- No-Permission Required,
+- Cache System Enabled for Faster loadeing,
+- Full Responsive UX / UI enabled.
 
 ## Contribute
 
