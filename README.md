@@ -31,4 +31,4 @@ If you find any error or have any suggestion, feel free to create an [issue](htt
 - Thanks, [@covid19india](https://github.com/covid19india) for the awesome [API](https://api.covid19india.org/).
 - Thanks, [Drawer](https://drawer.design/products/coronavirus-icons) for the awesome Icons.
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49dcdc3f-903d-4999-b9f7-27192a2e1ea5/deploy-status)](https://app.netlify.com/sites/competent-shannon-59b872/deploys)
