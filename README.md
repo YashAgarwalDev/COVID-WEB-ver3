@@ -51,3 +51,5 @@ If you find any error or have any suggestion, feel free to create an [issue](htt
 - Thanks, [Drawer](https://drawer.design/products/coronavirus-icons) for the awesome Icons.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/49dcdc3f-903d-4999-b9f7-27192a2e1ea5/deploy-status)](https://app.netlify.com/sites/competent-shannon-59b872/deploys)
+
+- This Project is just for educational purpose only for learning new programming languages . I'm not responsible for any kind of misuse or damages.
