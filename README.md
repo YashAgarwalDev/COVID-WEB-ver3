@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  View <a href="https://covidindiatracker.netlify.app/">Covid-19 India Tracker</a>
+  View <a href="https:///">Covid-19 India Tracker</a>
 </p>
 
 ## Project Setup
