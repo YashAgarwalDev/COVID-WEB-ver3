@@ -75,10 +75,10 @@ class CovidApp extends Component {
     this.setState({ isLoading: !this.state.isLoading });
     const countryData = axios.get("https://api.covid19india.org/data.json");
     const districtLevel = axios.get(
-      "https://api.covid19india.org/v2/state_district_wise.json"
+      "https://api.covid19india.org/v4/min/data.min.json"
     );
     const stateChanges = axios.get(
-      "https://api.covid19india.org/states_daily.json"
+      "https://api.covid19india.org/v4/min/data.min.json"
     );
     const updates = axios.get(
       "https://api.covid19india.org/updatelog/log.json"
