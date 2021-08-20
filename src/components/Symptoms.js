@@ -18,8 +18,8 @@ class Symptoms extends Component {
           <div className={classes.mainContent}>
             <div className={classes.alert}>
               <p>
-                There’s currently no vaccine to prevent coronavirus disease
-                (COVID-19). So, take the necessary preventive measures.
+                COVID Vaccine is now available at https://www.cowin.gov.in/ 
+                For more deatils or read FAQs present on COWIN Website all Details regarding for vaccine is available there.
               </p>
             </div>
             <div className={classes.symptomsMain}>
