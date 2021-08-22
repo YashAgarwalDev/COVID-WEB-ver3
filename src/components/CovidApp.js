@@ -73,7 +73,7 @@ class CovidApp extends Component {
 
   async fetchData() {
     this.setState({ isLoading: !this.state.isLoading });
-    const countryData = axios.get("https://api.covid19india.org/data.json");
+    const countryData = axios.get("https://api.covid19india.org/v4/min/data.min.json");
     const districtLevel = axios.get(
       "https://api.covid19india.org/v4/min/data.min.json"
     );
@@ -81,7 +81,7 @@ class CovidApp extends Component {
       "https://api.covid19india.org/v4/min/data.min.json"
     );
     const updates = axios.get(
-      "https://api.covid19india.org/updatelog/log.json"
+      "https://api.covid19india.org/v4/min/data.min.json"
     );
 
     axios.all([countryData, districtLevel, stateChanges, updates]).then(
