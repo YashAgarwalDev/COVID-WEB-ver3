@@ -78,7 +78,7 @@ class CovidApp extends Component {
       "https://api.covid19india.org/v4/min/data.min.json"
     );
     const stateChanges = axios.get(
-      "https://api.covid19india.org/v4/min/data.min.json"
+      "https://data.covid19india.org/csv/latest/states.csv"
     );
     const updates = axios.get(
       "https://api.covid19india.org/v4/min/data.min.json"
